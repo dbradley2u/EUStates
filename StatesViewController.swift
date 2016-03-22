@@ -24,7 +24,7 @@ class StatesViewController: UITableViewController {
 
         // Uncomment the following line to display an Edit button in the navigation bar for this view controller.
         // self.navigationItem.rightBarButtonItem = self.editButtonItem()
-    }
+    } 
     
     func initStates() {
         states[0] = "Austria"
